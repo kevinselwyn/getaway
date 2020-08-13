@@ -1,18 +1,18 @@
-#getaway
+# getaway
 
 Utility for calculating the best time to book an airline ticket
 
-##Background
+## Background
 
 According to [CheapAir](http://www.cheapair.com/blog/travel-tips/when-should-you-buy-your-airline-ticket-heres-what-our-data-has-to-say/), the best time to book an airline ticket is 54 days in advance.
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```bash
 Usage: getaway [-h]|[r] ["date"] [book_time]
